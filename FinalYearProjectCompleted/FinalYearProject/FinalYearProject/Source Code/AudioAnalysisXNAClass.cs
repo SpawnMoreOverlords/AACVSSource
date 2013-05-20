@@ -1,4 +1,11 @@
-﻿//Required includes:
+﻿//
+//Audio Analysis Framework - Created by Stephen Hoult.
+//Downloaded from: http://www.codeproject.com/Articles/593627/An-Audio-Analysis-Framework-for-XNA-Developers
+//Contact: Through the linked articles comments and discussions. 
+//Please do not remove this :).
+//
+
+//Required includes:
 using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Media;
